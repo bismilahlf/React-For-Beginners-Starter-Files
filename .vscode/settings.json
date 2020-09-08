@@ -1,0 +1,8 @@
+{
+    "eslint.run": "onSave",
+    "eslint.trace.server": null,
+    "eslint.codeAction.showDocumentation": {
+    
+        "enable": true
+    }
+}
